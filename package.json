@@ -1,20 +1,20 @@
 {
-  "name": "@finsweet/developer-starter",
+  "name": "@rivedive/room-homepage",
   "version": "1.0.0",
-  "description": "Developer starter template for Finsweet projects.",
-  "homepage": "https://github.com/finsweet/developer-starter#readme",
+  "description": "JS implemantation of GSAP for a portfolio product.",
+  "homepage": "N/A",
   "license": "ISC",
   "keywords": [],
   "author": {
-    "name": "Finsweet",
-    "url": "https://www.finsweet.com/"
+    "name": "David Jirschitzka",
+    "url": "https://www.meisterreineke.de"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/finsweet/developer-starter.git"
+    "url": "git+https://github.com/rivedive/room-homepage.git"
   },
   "bugs": {
-    "url": "https://github.com/finsweet/developer-starter/issues"
+    "url": "https://github.com/rivedive/room-homepage/issues"
   },
   "type": "module",
   "main": "src/index.ts",
